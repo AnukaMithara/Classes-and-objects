@@ -16,4 +16,5 @@ University of Jaffna: Faculty of Engineering : EC5080: Software Constructions: L
       
       
       How to run 
-      Run in cmd as shown in the example
+      First change the path varibles in the code 
+      Then run in cmd as shown in the example
